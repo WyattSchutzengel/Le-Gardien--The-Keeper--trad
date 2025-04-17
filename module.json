@@ -12,13 +12,13 @@
       "name": "Jeremy Melloul",
       "url": "https://www.dmsguild.com/browse.php?author=Jeremy%20Melloul",
       "flags": {}
-    },
+    }
   ],
   "packs": [
     {
       "name": "Le Gardien",
       "label": "Classe : Le Gardien (The Keeper)",
-      "path": "packs/Le-Gardien",
+      "path": "pack/Le-Gardien",
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
