@@ -6,7 +6,7 @@
     "minimum": "12",
     "verified": "12"
   },
-  "description": "French traduction of the homebrew class \"The keeper\" by Jeremy Melloul",
+  "description": "French translation of the homebrew class \"The keeper\" by Jeremy Melloul",
   "authors": [
     {
       "name": "Jeremy Melloul",
@@ -18,7 +18,7 @@
     {
       "name": "Le Gardien",
       "label": "Classe : Le Gardien (The Keeper)",
-      "path": "packs/capacite-de-classe",
+      "path": "packs/Le-Gardien",
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
