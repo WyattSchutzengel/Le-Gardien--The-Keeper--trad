@@ -16,7 +16,7 @@
   ],
   "packs": [
     {
-      "name": "Le Gardien",
+      "name": "Le_Gardien",
       "label": "Classe : Le Gardien (The Keeper)",
       "path": "packs/Le-Gardien",
       "type": "Item",
