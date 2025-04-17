@@ -1,0 +1,33 @@
+{
+  "id": "classe-le-gardien-the-keeper-vf",
+  "title": "Classe : Le Gardien (The Keeper) vf",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "French traduction of the homebrew class \"The keeper\" by Jeremy Melloul",
+  "authors": [
+    {
+      "name": "Jeremy Melloul",
+      "url": "https://www.dmsguild.com/browse.php?author=Jeremy%20Melloul",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "capacite-de-classe",
+      "label": "Classe : Le Gardien (The Keeper)",
+      "path": "packs/capacite-de-classe",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "url": "https://github.com/WyattSchutzengel/Le-Gardien--The-Keeper--trad",
+  "manifest": "https://raw.githubusercontent.com/WyattSchutzengel/Le-Gardien--The-Keeper--trad/main/module.json",
+  "download": "https://github.com/WyattSchutzengel/Le-Gardien--The-Keeper--trad/releases/latest/download/module.zip"
+}
