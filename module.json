@@ -16,7 +16,7 @@
   ],
   "packs": [
     {
-      "name": "Classe : Le Gardien (The Keeper) vf",
+      "name": "capacite-de-classe",
       "label": "Classe : Le Gardien (The Keeper)",
       "path": "packs/Le-Gardien",
       "type": "Item",
