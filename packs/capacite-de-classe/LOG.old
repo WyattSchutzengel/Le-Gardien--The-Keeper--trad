@@ -1,8 +1,3 @@
-2025/04/21-13:34:08.771 867c Recovering log #161
-2025/04/21-13:34:08.838 867c Delete type=0 #161
-2025/04/21-13:34:08.838 867c Delete type=3 #159
-2025/04/21-14:23:03.404 4aa4 Level-0 table #167: started
-2025/04/21-14:23:03.405 4aa4 Level-0 table #167: 0 bytes OK
-2025/04/21-14:23:03.461 4aa4 Delete type=0 #165
-2025/04/21-14:23:03.592 4aa4 Manual compaction at level-0 from '!folders!2UGXRPipH45qmgDA' @ 72057594037927935 : 1 .. '!items.effects!yMuzYEvK7dHMKPVI.sZCXp3x5pZpPqxKn' @ 0 : 0; will stop at (end)
-2025/04/21-14:23:03.592 4aa4 Manual compaction at level-1 from '!folders!2UGXRPipH45qmgDA' @ 72057594037927935 : 1 .. '!items.effects!yMuzYEvK7dHMKPVI.sZCXp3x5pZpPqxKn' @ 0 : 0; will stop at (end)
+2025/04/21-14:31:43.254 9c38 Recovering log #166
+2025/04/21-14:31:43.367 9c38 Delete type=0 #166
+2025/04/21-14:31:43.367 9c38 Delete type=3 #164
