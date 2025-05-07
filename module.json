@@ -16,9 +16,9 @@
   ],
   "packs": [
     {
-      "name": "gardien",
+      "name": "Le Gardien",
       "label": "Classe : Le Gardien (The Keeper)",
-      "path": "packs/capacite-de-classe",
+      "path": "packs/Le Gardien",
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
