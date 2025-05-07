@@ -1,6 +1,7 @@
 {
   "id": "classe-le-gardien-the-keeper-vf",
   "title": "Classe : Le Gardien (The Keeper) vf",
+  "type": "module",
   "version": "1.0.2",
   "compatibility": {
     "minimum": "12",
@@ -19,7 +20,7 @@
       "name": "le_gardien",
       "label": "Classe : Le Gardien (The Keeper)",
       "path": "packs/le_gardien",
-      "type": "item",
+      "type": "Item",
       "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
