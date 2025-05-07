@@ -19,7 +19,7 @@
       "name": "le_gardien",
       "label": "Classe : Le Gardien (The Keeper)",
       "path": "packs/le_gardien",
-      "type": "Class",
+      "type": "class",
       "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
