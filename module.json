@@ -16,7 +16,7 @@
   ],
   "packs": [
     {
-      "name": "capacite-de-classe",
+      "name": "gardien",
       "label": "Classe : Le Gardien (The Keeper)",
       "path": "packs/capacite-de-classe",
       "type": "Item",
