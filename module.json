@@ -4,8 +4,8 @@
   "version": "1.0.1",
   "compatibility": {
     "minimum": "12",
-    "verified": "13",
-  }
+    "verified": "13"
+  },
   "description": "French translation of the homebrew class \"The keeper\" by Jeremy Melloul.",
   "authors": [
     {
