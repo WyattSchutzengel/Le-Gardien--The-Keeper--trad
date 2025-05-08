@@ -1,5 +1,22 @@
-2025/04/21-14:53:57.801 2798 Recovering log #171
-2025/04/21-14:53:57.801 2798 Level-0 table #173: started
-2025/04/21-14:53:57.837 2798 Level-0 table #173: 21516 bytes OK
-2025/04/21-14:53:57.955 2798 Delete type=0 #171
-2025/04/21-14:53:57.956 2798 Delete type=3 #170
+2025/05/08-17:39:48.058 3d9c Recovering log #176
+2025/05/08-17:39:48.156 3d9c Delete type=0 #176
+2025/05/08-17:39:48.156 3d9c Delete type=3 #175
+2025/05/08-17:50:21.812 5ba8 Level-0 table #180: started
+2025/05/08-17:50:21.862 5ba8 Level-0 table #180: 196425 bytes OK
+2025/05/08-17:50:21.912 5ba8 Delete type=0 #178
+2025/05/08-17:50:21.912 5ba8 Manual compaction at level-0 from '!folders!2UGXRPipH45qmgDA' @ 72057594037927935 : 1 .. '!items.effects!yMuzYEvK7dHMKPVI.sZCXp3x5pZpPqxKn' @ 0 : 0; will stop at '!items!oFY6E2ZecHXATnGR' @ 270 : 1
+2025/05/08-17:50:21.912 5ba8 Compacting 2@0 + 0@1 files
+2025/05/08-17:50:21.993 5ba8 Generated table #181@0: 154 keys, 177657 bytes
+2025/05/08-17:50:21.993 5ba8 Compacted 2@0 + 0@1 files => 177657 bytes
+2025/05/08-17:50:22.044 5ba8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/08-17:50:22.044 5ba8 Delete type=2 #173
+2025/05/08-17:50:22.044 5ba8 Delete type=2 #180
+2025/05/08-17:50:22.122 5ba8 Manual compaction at level-0 from '!items!oFY6E2ZecHXATnGR' @ 270 : 1 .. '!items.effects!yMuzYEvK7dHMKPVI.sZCXp3x5pZpPqxKn' @ 0 : 0; will stop at (end)
+2025/05/08-17:50:22.155 5ba8 Manual compaction at level-1 from '!folders!2UGXRPipH45qmgDA' @ 72057594037927935 : 1 .. '!items.effects!yMuzYEvK7dHMKPVI.sZCXp3x5pZpPqxKn' @ 0 : 0; will stop at '!items.effects!yMuzYEvK7dHMKPVI.sZCXp3x5pZpPqxKn' @ 422 : 1
+2025/05/08-17:50:22.155 5ba8 Compacting 1@1 + 1@2 files
+2025/05/08-17:50:22.233 5ba8 Generated table #182@1: 176 keys, 179662 bytes
+2025/05/08-17:50:22.233 5ba8 Compacted 1@1 + 1@2 files => 179662 bytes
+2025/05/08-17:50:22.343 5ba8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/08-17:50:22.343 5ba8 Delete type=2 #163
+2025/05/08-17:50:22.343 5ba8 Delete type=2 #181
+2025/05/08-17:50:22.520 5ba8 Manual compaction at level-1 from '!items.effects!yMuzYEvK7dHMKPVI.sZCXp3x5pZpPqxKn' @ 422 : 1 .. '!items.effects!yMuzYEvK7dHMKPVI.sZCXp3x5pZpPqxKn' @ 0 : 0; will stop at (end)
