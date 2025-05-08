@@ -24,9 +24,9 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-    },
-  ],
+      }
+    }
+  ]
   "url": "https://github.com/WyattSchutzengel/Le-Gardien--The-Keeper--trad",
   "manifest": "https://raw.githubusercontent.com/WyattSchutzengel/Le-Gardien--The-Keeper--trad/refs/heads/main/module.json",
   "download": "https://github.com/WyattSchutzengel/Le-Gardien--The-Keeper--trad/blob/main/module.zip"
